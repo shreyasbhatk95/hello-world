@@ -1,5 +1,5 @@
 # hello-world
 
 Hello everyone.!!
-I am Shreyas, Electrical engineering graduate aspiring to become a Software Developer.
-My areas of interests are Programming in C, Java.
+I am Shreyas, an Electrical engineering graduate aspiring to become a Software Developer.
+My areas of interests include Programming in C, Java.
